@@ -10,3 +10,5 @@ commands:
     description: Permet de placer un item sur votre tête
   leporte:
     description: Permet d'obtenir une porte mystére
+  lightning:
+    description: Permet d'obtenir un bâton divin
